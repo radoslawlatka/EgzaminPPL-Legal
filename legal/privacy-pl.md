@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Polityka prywatności — Egzamin PPL
+title: Polityka prywatności - Egzamin PPL
 ---
 
-# Polityka prywatności — Egzamin PPL
+# Polityka prywatności - Egzamin PPL
 
 **Data wejścia w życie:** 27 maja 2026
 **Ostatnia aktualizacja:** 27 maja 2026
@@ -56,7 +56,7 @@ Tam gdzie ma zastosowanie RODO, podstawą prawną przetwarzania danych diagnosty
 
 Dane diagnostyczne są przetwarzane w naszym imieniu przez:
 
-- **Google LLC / Google Ireland Limited** — dostawca usług Firebase Crashlytics, Firebase Installations, Cloud Firestore oraz Firebase App Check. Praktyki prywatności Google są opisane na stronach [policies.google.com/privacy](https://policies.google.com/privacy) oraz [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
+- **Google LLC / Google Ireland Limited** - dostawca usług Firebase Crashlytics, Firebase Installations, Cloud Firestore oraz Firebase App Check. Praktyki prywatności Google są opisane na stronach [policies.google.com/privacy](https://policies.google.com/privacy) oraz [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
 
 Dane mogą być przesyłane i przechowywane na serwerach Google poza Europejskim Obszarem Gospodarczym. Transfery te są objęte umową powierzenia przetwarzania danych Google oraz standardowymi klauzulami umownymi zatwierdzonymi przez Komisję Europejską.
 

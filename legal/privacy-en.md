@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Privacy Policy — Egzamin PPL
+title: Privacy Policy - Egzamin PPL
 ---
 
-# Privacy Policy — Egzamin PPL
+# Privacy Policy - Egzamin PPL
 
 **Effective date:** 27 May 2026
 **Last updated:** 27 May 2026
@@ -56,7 +56,7 @@ Where the GDPR applies, the legal basis for processing diagnostic data is our **
 
 Diagnostic data is processed on our behalf by:
 
-- **Google LLC / Google Ireland Limited** — provider of Firebase Crashlytics, Firebase Installations, Cloud Firestore, and Firebase App Check. Google's privacy practices are described at [policies.google.com/privacy](https://policies.google.com/privacy) and [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
+- **Google LLC / Google Ireland Limited** - provider of Firebase Crashlytics, Firebase Installations, Cloud Firestore, and Firebase App Check. Google's privacy practices are described at [policies.google.com/privacy](https://policies.google.com/privacy) and [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
 
 Data may be transferred to and stored on Google servers outside the European Economic Area. Such transfers are governed by Google's Data Processing Addendum and Standard Contractual Clauses approved by the European Commission.
 
