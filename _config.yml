@@ -1,6 +1,4 @@
 title: Egzamin PPL
 description: Privacy policy and project info for the Egzamin PPL app
-theme: minima
-minima:
-  skin: auto
+theme: jekyll-theme-primer
 
