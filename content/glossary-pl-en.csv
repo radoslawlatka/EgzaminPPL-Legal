@@ -1,0 +1,41 @@
+pl,en,notes
+statek powietrzny,aircraft,
+załoga,crew,
+pierwszeństwo,right of way,"priority; SERA rules of the air"
+przestrzeń powietrzna,airspace,
+droga startowa,runway,abbr: RWY
+ciśnienie atmosferyczne,atmospheric pressure,
+nastawa ciśnienia,pressure setting,
+QNH,QNH,keep Q-code untranslated
+QFE,QFE,keep Q-code untranslated
+wysokość bezwzględna,altitude,height above mean sea level
+wysokość względna,height,height above a datum
+wysokość ciśnieniowa,pressure altitude,
+poziom lotu,flight level,abbr: FL
+punkt rosy,dew point,
+temperatura,temperature,unit °C
+wilgotność,humidity,
+zachmurzenie,cloud cover,
+widzialność,visibility,
+mgła radiacyjna,radiation fog,
+front atmosferyczny,weather front,
+prędkość przyrządowa,indicated airspeed,abbr: IAS (untranslated)
+prędkość rzeczywista,true airspeed,abbr: TAS (untranslated)
+prędkość względem ziemi,ground speed,abbr: GS
+siła nośna,lift,
+opór aerodynamiczny,drag,
+ciąg,thrust,
+ciężar,weight,
+ciśnienie dynamiczne,dynamic pressure,
+kąt natarcia,angle of attack,abbr: AoA
+przeciągnięcie,stall,
+współczynnik siły nośnej,lift coefficient,symbol C_L
+gęstość powietrza,air density,symbol ρ
+deklinacja magnetyczna,magnetic variation,
+kurs,heading,
+namiar,bearing,
+masa i wyważenie,mass and balance,
+środek ciężkości,centre of gravity,abbr: CG
+masa startowa,take-off mass,
+kontrola ruchu lotniczego,air traffic control,abbr: ATC (untranslated)
+depesza METAR,METAR,keep untranslated
